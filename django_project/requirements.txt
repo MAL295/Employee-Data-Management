@@ -1,0 +1,29 @@
+# requirements.txt
+
+# Django
+Django==4.2.11
+
+# Django REST Framework
+djangorestframework==3.14.0
+
+# PostgreSQL adapter for Django
+psycopg2-binary==2.9.9
+
+# Django Filter for advanced filtering in DRF
+django-filter==23.5
+
+# drf-yasg for Swagger documentation
+drf-yasg==1.21.7
+
+# Python-dotenv for managing environment variables
+python-dotenv==1.0.1
+
+# Faker for generating synthetic data
+Faker==20.5.0
+
+# For running tests
+pytest==8.2.0
+pytest-django==4.10.0
+
+# Coverage reporting
+coverage==7.4.3
